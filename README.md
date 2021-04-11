@@ -1,1 +1,1 @@
-git@oregon.bootcampcontent.com:Oregon_Coding_Bootcamp/uofo-por-virt-data-pt-03-2021-u-c.git
+02-Homework/03-Python/Instructions/README.md
